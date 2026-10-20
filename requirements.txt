@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+gensim
+wordcloud
+bertopic>=0.16
+umap-learn
+hdbscan
+plotly
+openpyxl
+jupyter
